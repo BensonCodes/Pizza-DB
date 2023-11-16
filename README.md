@@ -56,7 +56,7 @@ Going through the source files in Excel, I noticed a few columns that were not i
 
 ## Create views for data on the dashboard.
 
-Utilising joins and subqueries, I created three views for each page of the dashboard dedicated to one of the main focus areas.
+Utilising joins and subqueries, I created four views for each page of the dashboard dedicated to one of the main focus areas.
 I used SQL functions and arithmetic operations to create required columns, such as a column for the remaining weight of ingredients in the inventory and staff cost calculated using the shift start time, end time, and hourly rate.
 
 ### The syntax used in this project has been made available.
